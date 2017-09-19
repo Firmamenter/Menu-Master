@@ -20,6 +20,7 @@ Life is short, you need Menu Master :)
 ### App Showcase  
 1.Google sign in.  
 ![Alt Text](Image/google_signin.gif)  
+  
 2.Email sign in.   
 ![Alt Text](Image/email_signin.gif)  
 3.Text detection and dish information retrieval.  
