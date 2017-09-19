@@ -19,4 +19,4 @@ Life is short, you need Menu Master :)
 
 ### App Showcase  
 1.Google sign in.  
-![Alt Text](Menu_Master/Image/google_signin.gif)
+![Alt Text](Image/google_signin.gif)
