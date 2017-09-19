@@ -23,14 +23,18 @@ Life is short, you need Menu Master :)
   
 2.Email sign in.   
 ![Alt Text](Image/email_signin.gif)  
+  
 3.Text detection and dish information retrieval.  
 ![Alt Text](Image/take_picture.gif)   
+  
 4.Dish search by typing in texts.  
 ![Alt Text](Image/text_search.gif)  
+  
 5.User's history.  
 ![Alt Text](Image/history.gif)  
+  
 6.My faves.  
 ![Alt Text](Image/myfaves.gif)  
 
 ### Architecture  
-![Alt Text](Image/Architecture.png)     
+![Alt Text](Image/Architecture.png=400*400)     
