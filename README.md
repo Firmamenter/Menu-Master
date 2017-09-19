@@ -37,4 +37,4 @@ Life is short, you need Menu Master :)
 ![Alt Text](Image/myfaves.gif)  
 
 ### Architecture  
-![Alt Text](Image/Architecture.png=400*400)     
+![Alt Text](Image/Architecture.png=400x400)     
